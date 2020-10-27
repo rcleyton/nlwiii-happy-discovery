@@ -83,7 +83,7 @@ a.create-orphanage:hover {
   background: #17d6eb;
 }
 
-.leaflet.popup-tip {
+.leaflet-popup-tip {
   display: none;
 }
 
